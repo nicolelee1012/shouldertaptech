@@ -1,0 +1,31 @@
+.words {
+  color: black;
+  background-color: gold;
+  border-color: gold;
+  border-radius: 4px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 3px;
+  height: 30px;
+}
+
+.chosen {
+  color: gold;
+  background-color: black;
+  border-color: black;
+  border-radius: 4px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 3px;
+  height: 30px;
+}
+/**
+.words:focus {
+  color: gold;
+  background-color: black;
+  border-color: black;
+  transform: translateY(4px);
+  position: relative;
+}**/
