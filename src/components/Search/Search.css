@@ -4,6 +4,8 @@
   width: 40%;
   height: 40vh;
   overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .container {
