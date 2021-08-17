@@ -16,4 +16,3 @@ We would like you to write a React App that will cover the functionality listed 
 
 - The Word API has a free plan with 2.5k requests per day, so please sign up for that one.
 - The word cloud does not have to look exactly as in the wireframe as long as it is visually appealing.
-# shouldertaptech
